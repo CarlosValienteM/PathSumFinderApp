@@ -57,28 +57,7 @@ Para correr el proyecto desde NetBeans:
 
 O desde terminal:
 
-```bash
-mvn clean compile
-mvn exec:java
 
-
----
-
-## ⚙️ Requisitos
-
-- Java 22 o compatible
-- NetBeans 25 (opcional)
-- Maven 3.6+
-
----
-
-## ▶️ Ejecución
-
-Para correr el proyecto desde NetBeans:
-1. Abrí el proyecto
-2. Ejecutá con **Run Project**
-
-O desde terminal:
 
 ```bash
 mvn clean compile
