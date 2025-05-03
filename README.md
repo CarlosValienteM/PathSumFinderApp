@@ -64,6 +64,4 @@ Caminos con suma 22:
 [5, 4, 11, 2]
 [5, 8, 4, 5]
 
-Autor
-Carlos Valiente
 
